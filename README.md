@@ -1,0 +1,2 @@
+# ChessPlusPlus_An_Elegant_-Variant_of_Standard_Chess
+Game Description of ChessPlusPlus
